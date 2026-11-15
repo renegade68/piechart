@@ -1,0 +1,12 @@
+v 3
+d radialchart 0.15.1: radial charts and measured pie/donut export
+d Requires Stata 16 or later
+d Author: choonjoo lee
+d License: Academic Free License 3.0 (AFL-3.0)
+f radialchart.ado
+f radialchart_export.ado
+f radialchart.sthlp
+f radialchart_export.sthlp
+f _radialchart_fit.ihlp
+f LICENSE
+f LICENSE_CODE.txt

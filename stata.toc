@@ -1,0 +1,3 @@
+v 3
+d radialchart: radial displays of category values
+p radialchart Five radial chart types for Stata

@@ -1,0 +1,23 @@
+Academic Free License 3.0
+=========================
+
+Copyright © 2026 choonjoo lee.
+Licensed under the Academic Free License version 3.0.
+SPDX-License-Identifier: AFL-3.0
+
+Author: choonjoo lee
+Software: radialchart 0.15.1
+Repository: https://github.com/renegade68/piechart
+
+This notice covers the Stata commands and help files, the HTML/SVG template,
+example and validation scripts, and accompanying software documentation in
+this package. The complete, unmodified license is provided in LICENSE.
+Preserve copyright, author and license notices when redistributing, and
+identify modifications as required by AFL-3.0.
+
+The license follows the existing renegade68/DEA-AHP software policy. It does
+not add a non-commercial-use restriction. Manuscripts, publisher PDFs and
+private research data are not included in this software package.
+
+The warranty provisions and limitations of liability in Sections 7 and 8
+of AFL-3.0 control; this notice does not modify the license text.
