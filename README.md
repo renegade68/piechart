@@ -7,7 +7,7 @@ Also provides area, radius, spoke and radar displays.
 
 ## Install
 
-Once this repository is published at `renegade68/piechart` on branch `main`:
+Install directly from GitHub in Stata:
 
 ```stata
 net install radialchart, from("https://raw.githubusercontent.com/renegade68/piechart/main") replace
